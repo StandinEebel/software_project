@@ -69,7 +69,7 @@
   <nav>
     <div class="navbar">
       <div class="logo"><a href="guest.php">OnTheRoad</a></div>
-      <li>Welcome User</li>
+      <li>Welcome Guest</li>
       <ul class="menu">
         <li><a href="#Weather">Climate</a></li>
         <li><a href="#place">Places</a></li>
