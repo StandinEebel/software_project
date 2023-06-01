@@ -73,7 +73,7 @@
   <nav>
     <div class="navbar">
       <div class="logo"><a href="mainpage.php">OnTheRoad</a></div>
-      <li>Please Login To Access SearchBar</li>
+      <li>Welcome Guest</li>
       <ul class="menu">
         <li><a href="#Weather">Climate</a></li>
         <li><a href="#place">Places</a></li>
